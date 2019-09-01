@@ -1,0 +1,12 @@
+{
+  "editor.formatOnSave": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "files.associations": {
+    "*.js": "javascriptreact"
+  },
+  "jest.showCoverageOnLoad": true,
+  "stylelint.enable": true
+}
